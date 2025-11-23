@@ -30,4 +30,4 @@ Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por
 📚 **Total:** 13+ cursos concluídos | 🎯 **Foco:** Backend .NET & DevOps
 
 ---
-⭐️ *Obrigado por visitar meu perfil!*
+👍 *Obrigado por visitar meu perfil!*
