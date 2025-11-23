@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus! 👋
 
-Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por criar soluções robustas e experiências interativas.
+Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por arquitetura de softwares e jogos.
 
 ## 🚀 Sobre Mim
 - 🎓 **Formação:** Superior em Jogos Digitais.
