@@ -15,10 +15,7 @@ Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📜 Cursos e Certificações
-
-### 🎓 Alura - Formações e Cursos Concluídos
-
-| 🏆 Curso | 💡 Tecnologia | 📄 Certificado |
+| 📖 Curso | 💻 Tecnologia | 📄 Certificado |
 |:---------|:-------------:|:--------------:|
 | **.NET - Criando uma Web API** <br/> *RESTful APIs com ASP.NET* | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/22e64ba9-2ece-4a16-9ddd-cbdc39e82386?lang) |
 | **.NET com Identity** <br/> *Autenticação e autorização* | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/3e62f214-e816-4e2f-bb2f-1eda723fbda2?lang) |
