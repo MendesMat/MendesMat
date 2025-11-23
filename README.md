@@ -3,8 +3,8 @@
 Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por arquitetura de softwares e jogos.
 
 ## 🚀 Sobre Mim
-- 🎓 **Formação:** Superior em Jogos Digitais.
-- 📚 **Estudando:** Arquitetura de Software no Infnet.
+- 🎓 **Formação:** Superior Tecnólogo em Jogos Digitais no IBMR.
+- 📚 **Estudando:** Pós-graduação MIT em Arquitetura de Software no Infnet.
 - 💻 **Foco:** Desenvolvimento Backend com .NET e criação de jogos com Unity.
 
 ## 🛠️ Tech Stack
