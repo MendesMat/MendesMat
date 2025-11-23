@@ -1,5 +1,5 @@
 # Olá! Eu sou Matheus Mendes! 👋
-Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por arquitetura de softwares e jogos.
+Unindo backend, arquitetura e jogos: sou desenvolvedor .NET e desenvolvedor Unity.
 
 ## 👨‍💻 Sobre Mim
 - 🎓 **Formação:** Superior Técnologo em Jogos Digitais no IBMR.
