@@ -2,7 +2,7 @@
 Unindo backend, arquitetura e jogos: sou desenvolvedor .NET e desenvolvedor Unity.
 
 ## 👨‍💻 Sobre Mim
-- 🎓 **Formação:** Superior Técnologo em Jogos Digitais no IBMR.
+- 🎓 **Formação:** Superior Tecnólogo em Jogos Digitais no IBMR.
 - 📚 **Estudando:** Pós-Graduação MIT em Arquitetura de Software no Infnet.
 
 ## 🛠️ Tech Stack
