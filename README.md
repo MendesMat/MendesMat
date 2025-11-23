@@ -1,10 +1,10 @@
 # Olá, eu sou o Matheus! 👋
 
-Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por arquitetura de softwares e jogos.
+Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por criar soluções robustas e experiências interativas.
 
-## 🚀 Sobre Mim
-- 🎓 **Formação:** Superior Tecnólogo em Jogos Digitais no IBMR.
-- 📚 **Estudando:** Pós-graduação MIT em Arquitetura de Software no Infnet.
+## 👨‍💻 Sobre Mim
+- 🎓 **Formação:** Superior em Jogos Digitais.
+- 📚 **Estudando:** Arquitetura de Software no Infnet.
 - 💻 **Foco:** Desenvolvimento Backend com .NET e criação de jogos com Unity.
 
 ## 🛠️ Tech Stack
@@ -18,12 +18,26 @@ Sou um desenvolvedor **Backend .NET** e **Game Developer Unity**. Apaixonado por
 ## 📜 Cursos e Certificações
 
 ### Alura
-- **.NET com Identity**
-- **.NET - Criando uma web API**
-- **SQL**
-- **Docker: Criando e gerenciando containers**
-- **Git e Github: dominando controle de versão**
-- **Formação em Testes em .NET** (7 cursos)
+## 📜 Cursos e Certificações
+
+### Alura
+- **.NET com Identity**  
+  [![Certificado](https://img.shields.io/badge/Acessar%20Certificado-007ACC?style=for-the-badge)](https://cursos.alura.com.br/certificate/3e62f214-e816-4e2f-bb2f-1eda723fbda2?lang)
+
+- **.NET - Criando uma Web API**  
+  [![Certificado](https://img.shields.io/badge/Acessar%20Certificado-007ACC?style=for-the-badge)](https://cursos.alura.com.br/certificate/22e64ba9-2ece-4a16-9ddd-cbdc39e82386?lang)
+  
+- **PostgreSQL**  
+  [![Certificado](https://img.shields.io/badge/Acessar%20Certificado-007ACC?style=for-the-badge)](https://cursos.alura.com.br/certificate/b3e4576c-1363-4a43-b656-baf763067515?lang)
+  
+- **Docker: Criando e gerenciando containers**  
+  [![Certificado](https://img.shields.io/badge/Acessar%20Certificado-007ACC?style=for-the-badge)](https://cursos.alura.com.br/certificate/7c3318c1-7298-41d6-834b-922912ff43ce?lang)
+  
+- **Git e Github: dominando controle de versão**  
+  [![Certificado](https://img.shields.io/badge/Acessar%20Certificado-007ACC?style=for-the-badge)](https://cursos.alura.com.br/certificate/84240cab-165a-431c-a983-4ce393da2f90?lang)
+  
+- **Formação em Testes em .NET (7 cursos)**  
+  [![Certificado](https://img.shields.io/badge/Acessar%20Certificado-007ACC?style=for-the-badge)](https://cursos.alura.com.br/degree/certificate/4ba746e1-cac1-46d5-b1df-135c88d1b5cb?lang)
 
 ---
 ⭐️ *Obrigado por visitar meu perfil!*
