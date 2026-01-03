@@ -1,5 +1,5 @@
 # Matheus Mendes
-Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, React, SQL Server
+Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, SQL Server, Javascript, React, HTML5, CSS3
 
 ## Resumo Profissional
 Desenvolvedor de software Full Stack (ênfase em Backend .NET), com experiência em APIs RESTful e Web APIs em ASP.NET Core, integração com SQL Server e aplicação de arquitetura de software. Atuação com boas práticas como SOLID, Clean Code, Domain-Driven Design (DDD) e Event-Driven Architecture (EDA). Experiência em autenticação, testes automatizados, containers Docker e desenvolvimento frontend com React, JavaScript, HTML5 e CSS3. Pós-graduando em Arquitetura de Software.
