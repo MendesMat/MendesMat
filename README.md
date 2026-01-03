@@ -2,7 +2,7 @@
 Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, React, SQL Server
 
 ## Resumo Profissional
-Desenvolvedor de software Full Stack (ênfase em Backend .NET), com experiência em APIs RESTful e Web APIs em ASP.NET Core, integração com SQL Server e aplicação de arquitetura de software. Atuação com boas práticas como SOLID, Clean Code, Domain-Driven Design (DDD) e Event-Driven Architecture. Experiência em autenticação, testes automatizados, containers Docker e integração entre backend e frontend com React, JavaScript, HTML5 e CSS3. Pós-graduando em Arquitetura de Software.
+Desenvolvedor de software Full Stack (ênfase em Backend .NET), com experiência em APIs RESTful e Web APIs em ASP.NET Core, integração com SQL Server e aplicação de arquitetura de software. Atuação com boas práticas como SOLID, Clean Code, Domain-Driven Design (DDD) e Event-Driven Architecture (EDA). Experiência em autenticação, testes automatizados, containers Docker e desenvolvimento frontend com React, JavaScript, HTML5 e CSS3. Pós-graduando em Arquitetura de Software.
 
 ## Formação Acadêmica
 - Pós-Graduação MIT em Arquitetura de Software – Infnet (em andamento)
