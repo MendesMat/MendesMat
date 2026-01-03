@@ -2,7 +2,7 @@
 Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, React, SQL Server
 
 ## Resumo Profissional
-Desenvolvedor de software Full Stack (com ênfase em Backend .NET), com experiência no desenvolvimento de **APIs RESTful**, **Web APIs em ASP.NET Core**, integração com **SQL Server**, aplicação de **arquitetura de software** e boas práticas como **SOLID**, **Clean Code** e **Domain-Driven Design (DDD)**. Atuação com **autenticação e autorização**, **testes automatizados**, **pipelines de CI/CD com Azure DevOps** e **containers Docker**. Experiência na integração entre backend e frontend utilizando **React**, **JavaScript**, **HTML5** e **CSS3**. Formação em Jogos Digitais, com experiência adicional em desenvolvimento de jogos com **Unity**. Atualmente em pós-graduação em **Arquitetura de Software**.
+Desenvolvedor de software Full Stack (com ênfase em Backend .NET), com experiência no desenvolvimento de **APIs RESTful**, **Web APIs em ASP.NET Core**, integração com banco de dados usando **SQL Server**, aplicação de **arquitetura de software** e boas práticas como **SOLID**, **Clean Code** e **Domain-Driven Design (DDD)** e **Event-Driven Architecture**. Atuação com **autenticação e autorização**, **testes automatizados** e **containers Docker**. Experiência na integração entre backend e frontend utilizando **React**, **JavaScript**, **HTML5** e **CSS3**. Formação em Jogos Digitais, com experiência adicional em desenvolvimento de jogos com **Unity**. Atualmente em pós-graduação em **Arquitetura de Software** no Infnet.
 
 ## Formação Acadêmica
 - Tecnólogo em Jogos Digitais – IBMR
