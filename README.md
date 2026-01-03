@@ -1,32 +1,40 @@
-# Olá! Eu sou Matheus Mendes! 👋  
-Sou desenvolvedor .NET e desenvolvedor Unity. Apaixonado por arquitetura de software e de jogos.
+# Matheus Mendes
+Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, React, SQL Server
 
-## 👨‍💻 Sobre Mim
-- 🎓 **Formação:** Superior Tecnólogo em Jogos Digitais no IBMR.
-- 📚 **Estudando:** Pós-Graduação MIT em Arquitetura de Software no Infnet.
+## Resumo Profissional
+Desenvolvedor de software com foco em Backend .NET, experiência em desenvolvimento de APIs RESTful, arquitetura de software e princípios de Domain-Driven Design (DDD). Formação em Jogos Digitais, com atuação também em desenvolvimento de jogos com Unity. Atualmente em pós-graduação em Arquitetura de Software, expandindo atuação para Frontend com React, JavaScript, HTML5 e CSS3.
 
-## 🛠️ Tech Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Formação Acadêmica
+- Tecnólogo em Jogos Digitais – IBMR
+- Pós-Graduação MIT em Arquitetura de Software – Infnet (em andamento)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Competências Técnicas
+- Linguagens: C#, JavaScript
+- Backend: .NET, ASP.NET Core, APIs RESTful, Identity
+- Frontend: HTML5, CSS3, JavaScript, React
+- Banco de Dados: SQL Server, bancos de dados relacionais
+- Testes: Testes automatizados em .NET
+- DevOps e IC/CD: Docker, Azure DevOps, Pipeline CI/CD
+- Versionamento: Git, GitHub
+- Arquitetura e Boas Práticas: SOLID, Clean Code, Domain-Driven Design (DDD), Event-Driven Architecture (EDA)
+- Game Development: Unity
 
-## 📜 Cursos e Certificações
-| 📖 Curso | 💻 Tecnologia | 📄 Certificado |
-|:---------|:-------------:|:--------------:|
-| **.NET - Criando uma Web API** <br/> *RESTful APIs com ASP.NET* | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/22e64ba9-2ece-4a16-9ddd-cbdc39e82386?lang) |
-| **.NET com Identity** <br/> *Autenticação e autorização* | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/3e62f214-e816-4e2f-bb2f-1eda723fbda2?lang) |
-| **Formação em Testes em .NET** <br/> *7 cursos completos* | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/degree/certificate/4ba746e1-cac1-46d5-b1df-135c88d1b5cb?lang) |
-| **SQL** <br/> *Banco de dados relacional* | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/b3e4576c-1363-4a43-b656-baf763067515?lang) |
-| **Docker** <br/> *Criando e gerenciando containers* | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/7c3318c1-7298-41d6-834b-922912ff43ce?lang) |
-| **Git e GitHub** <br/> *Dominando controle de versão* | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | [![Ver](https://img.shields.io/badge/Ver_Certificado-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://cursos.alura.com.br/certificate/84240cab-165a-431c-a983-4ce393da2f90?lang) |
+## Cursos e Certificações
+- .NET – Criando uma Web API (ASP.NET, RESTful APIs)
+- .NET com Identity (Autenticação e Autorização)
+- Formação em Testes em .NET (7 cursos)
+- SQL – Banco de Dados Relacional
+- Docker – Criação e Gerenciamento de Containers
+- Git e GitHub – Controle de Versão
+- React - JSX, componentes, form action e useState
 
----
-👍 *Obrigado por visitar meu perfil!*
+## Áreas de Atuação
+- Desenvolvimento Backend com .NET
+- Desenvolvimento de APIs RESTful
+- Arquitetura de Software
+- Desenvolvimento Frontend com React
+- Desenvolvimento de Jogos com Unity
+
+## Objetivo Profissional
+Atuar como Desenvolvedor Backend .NET ou Desenvolvedor Full Stack, com foco em arquitetura de software, escalabilidade, boas práticas de código e integração entre backend e frontend.
+
