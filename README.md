@@ -1,8 +1,8 @@
 # Matheus Mendes
-Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, SQL Server, Javascript, React, HTML5, CSS3
+Desenvolvedor Full Stack (ênfase em Backend .NET) | C#, .NET, ASP.NET Core, APIs RESTful, SQL Server, React
 
 ## Resumo Profissional
-Desenvolvedor de software Full Stack (ênfase em Backend .NET), com experiência em APIs RESTful e Web APIs em ASP.NET Core, integração com SQL Server e aplicação de arquitetura de software. Atuação com boas práticas como SOLID, Clean Code, Domain-Driven Design (DDD) e Event-Driven Architecture (EDA). Experiência em autenticação, testes automatizados, containers Docker e desenvolvimento frontend com React, JavaScript, HTML5 e CSS3. Pós-graduando em Arquitetura de Software.
+Desenvolvedor de software Full Stack com ênfase em Backend .NET, experiência no desenvolvimento de APIs RESTful e Web APIs em ASP.NET Core, integração com SQL Server e aplicação de arquitetura de software. Atuação com boas práticas como SOLID, Clean Code, Domain-Driven Design (DDD) e Event-Driven Architecture (EDA). Experiência com autenticação, testes automatizados, containers Docker e integração frontend utilizando React, JavaScript, HTML5 e CSS3. Pós-graduando em Arquitetura de Software.
 
 ## Formação Acadêmica
 - Pós-Graduação MIT em Arquitetura de Software – Infnet (em andamento)
@@ -11,12 +11,12 @@ Desenvolvedor de software Full Stack (ênfase em Backend .NET), com experiência
 ## Competências Técnicas
 - Linguagens: C#, JavaScript
 - Backend: .NET, ASP.NET Core, APIs RESTful, ASP.NET Identity
-- Frontend: HTML5, CSS3, JavaScript, React
-- Banco de Dados: SQL, SQL Server
+- Frontend: React, JavaScript, HTML5, CSS3
+- Banco de Dados: SQL Server, SQL
 - Testes: Testes automatizados em .NET
 - DevOps e CI/CD: Docker, Azure DevOps, Pipelines CI/CD
 - Versionamento: Git, GitHub
-- Arquitetura e Boas Práticas: SOLID, Clean Code, Domain-Driven Design (DDD), Event-Driven Architecture (EDA)
+- Arquitetura: SOLID, Clean Code, Domain-Driven Design (DDD), Event-Driven Architecture (EDA)
 - Game Development: Unity
 
 ## Cursos e Certificações
@@ -28,12 +28,5 @@ Desenvolvedor de software Full Stack (ênfase em Backend .NET), com experiência
 - Docker – Criação e Gerenciamento de Containers
 - Git e GitHub – Controle de Versão
 
-## Áreas de Atuação
-- Desenvolvimento Backend com .NET
-- Desenvolvimento de APIs RESTful
-- Arquitetura de Software
-- Desenvolvimento Frontend com React
-- Desenvolvimento de Jogos com Unity
-
 ## Objetivo Profissional
-Atuar como Desenvolvedor Backend .NET ou Desenvolvedor Full Stack, contribuindo com arquitetura de software, escalabilidade, pipelines de CI/CD e boas práticas de desenvolvimento.
+Atuar como Desenvolvedor Backend .NET ou Desenvolvedor Full Stack, contribuindo com arquitetura de software, escalabilidade e boas práticas de desenvolvimento.
