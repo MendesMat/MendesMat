@@ -2,7 +2,7 @@
 Desenvolvedor Full Stack | C#, .NET, ASP.NET Core, APIs RESTful, React, SQL Server
 
 ## Resumo Profissional
-Desenvolvedor de software com foco em Backend .NET, experiência em desenvolvimento de APIs RESTful, arquitetura de software e princípios de Domain-Driven Design (DDD). Formação em Jogos Digitais, com atuação também em desenvolvimento de jogos com Unity. Atualmente em pós-graduação em Arquitetura de Software, expandindo atuação para Frontend com React, JavaScript, HTML5 e CSS3.
+Desenvolvedor de software Full Stack com **ênfase em Backend .NET**, experiência no desenvolvimento de APIs RESTful, arquitetura de software e aplicação de boas práticas como SOLID, Clean Code e Domain-Driven Design (DDD). Atuação com integração entre backend e frontend, utilizando React, JavaScript, HTML5 e CSS3. Formação em Jogos Digitais, com experiência adicional em desenvolvimento de jogos com Unity. Atualmente em pós-graduação em Arquitetura de Software.
 
 ## Formação Acadêmica
 - Tecnólogo em Jogos Digitais – IBMR
@@ -10,11 +10,11 @@ Desenvolvedor de software com foco em Backend .NET, experiência em desenvolvime
 
 ## Competências Técnicas
 - Linguagens: C#, JavaScript
-- Backend: .NET, ASP.NET Core, APIs RESTful, Identity
+- Backend: .NET, ASP.NET Core, APIs RESTful, ASP.NET Identity
 - Frontend: HTML5, CSS3, JavaScript, React
-- Banco de Dados: SQL Server, bancos de dados relacionais
+- Banco de Dados: SQL, SQL Server
 - Testes: Testes automatizados em .NET
-- DevOps e IC/CD: Docker, Azure DevOps, Pipeline CI/CD
+- DevOps e CI/CD: Docker, Azure DevOps, Pipelines CI/CD
 - Versionamento: Git, GitHub
 - Arquitetura e Boas Práticas: SOLID, Clean Code, Domain-Driven Design (DDD), Event-Driven Architecture (EDA)
 - Game Development: Unity
@@ -24,9 +24,9 @@ Desenvolvedor de software com foco em Backend .NET, experiência em desenvolvime
 - .NET com Identity (Autenticação e Autorização)
 - Formação em Testes em .NET (7 cursos)
 - SQL – Banco de Dados Relacional
+- React – JSX, Componentes, Form Actions e useState
 - Docker – Criação e Gerenciamento de Containers
 - Git e GitHub – Controle de Versão
-- React - JSX, componentes, form action e useState
 
 ## Áreas de Atuação
 - Desenvolvimento Backend com .NET
@@ -36,5 +36,4 @@ Desenvolvedor de software com foco em Backend .NET, experiência em desenvolvime
 - Desenvolvimento de Jogos com Unity
 
 ## Objetivo Profissional
-Atuar como Desenvolvedor Backend .NET ou Desenvolvedor Full Stack, com foco em arquitetura de software, escalabilidade, boas práticas de código e integração entre backend e frontend.
-
+Atuar como Desenvolvedor Backend .NET ou Desenvolvedor Full Stack, contribuindo com arquitetura de software, escalabilidade, pipelines de CI/CD e boas práticas de desenvolvimento.
